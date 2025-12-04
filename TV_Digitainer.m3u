@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="⭐Digitainer Romania⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐Digitainer Romania⭐
 http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/75879
-#EXTINF:-1 tvg-name="⭐⭐⭐Meci Voyo ⭐⭐⭐" group-title="Romania ",⭐⭐⭐Meci Voyo ⭐⭐⭐
-http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/101440
 #EXTINF:-1 tvg-name="⭐⭐⭐MIREASA⭐⭐⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/2/27/Mireasa_Logo.png" group-title="Romania ",⭐⭐⭐MIREASA⭐⭐⭐
 http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/51856
 #EXTINF:-1 tvg-name="⭐⭐⭐Mireasa Plus⭐⭐⭐" tvg-logo="https://assets.antenaplay.ro/2023/04/13/Xupo2qlnOHckDXhaOOCU.png" group-title="Romania ",⭐⭐⭐Mireasa Plus⭐⭐⭐
@@ -940,4 +938,5 @@ http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/53522
 #EXTINF:-1 tvg-name="DiscoMix" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png" group-title="Romania ",DiscoMix
 http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/54140
 #EXTINF:-1 tvg-name="Impact Tv Manele" group-title="Romania ",Impact Tv Manele
+
 http://update4.miicrosoft.es:80/AN229969/eT7fR5uzTWqXdoNKaz2OcTZJL3rVZS/26656
